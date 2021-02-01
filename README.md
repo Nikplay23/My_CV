@@ -2,7 +2,6 @@
 
 # Fotogrāfija
 
-# Mana fotogrāfija:
 ![bilde1](https://cdn.discordapp.com/attachments/540946078074273794/805799703772921948/unknown.png)
 
 * Nikita Peresunko
@@ -13,7 +12,7 @@
 
 * Ē- pasts:
 
- nikita.peresunko32@gmail.com
+    nikita.peresunko32@gmail.com
 
 * Tālrunis: 20532646
 
