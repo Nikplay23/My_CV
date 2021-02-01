@@ -1,7 +1,10 @@
 # My_CV
 ***Nikita Peresunko***
+
 ***20.12.2004***
-##Ē- pasts:
+
+##Ē- pasts:##
+
 ***nikita.peresunko32@gmail.com***
 
 ## Izglītība
