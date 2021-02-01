@@ -4,17 +4,17 @@
 
 ![bilde1](https://cdn.discordapp.com/attachments/540946078074273794/805799703772921948/unknown.png)
 
-* Nikita Peresunko
+* ***Nikita Peresunko***
 
 * Adrese: Melnsila iela 18, Rīga, LV-1046
 
-* Dzimšanas datums: 20.12.2004
+* ***Dzimšanas datums: 20.12.2004***
 
 * Ē- pasts:
 
     nikita.peresunko32@gmail.com
 
-* Tālrunis: 20532646
+* ***Tālrunis: 20532646***
 
 ## Izglītība
 
