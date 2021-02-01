@@ -1,11 +1,10 @@
 # My_CV
 Nikita Peresunko
-
-***20.12.2004***
-
-   Ē- pasts:
-
+Adrese: Melnsila iela 18, Rīga, LV-1046
+Dzimšanas datums:20.12.2004***
+Ē- pasts:
 ***nikita.peresunko32@gmail.com***
+Tālrunis: 20532646
 
 ## Izglītība
 
@@ -18,7 +17,7 @@ No 2020.g. 1 septembri līdz šai dienai
 No 2010.g. 1 septembri līdz 2020.g. 20 maijam
 
 ## Hobiji
- Mani Hobiji, ar kuriem es nodarbojos:
+ ***Mani Hobiji, ar kuriem es nodarbojos:***
  - [x] Programmēšana ***(GO valodas apgūšana)***
  - [x] Sports
  - [x] Saišu veidošana ***(Landing page konstruktors)***
