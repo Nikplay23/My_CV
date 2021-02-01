@@ -3,7 +3,7 @@
 
 ***20.12.2004***
 
-## Ē- pasts:
+# Ē- pasts:
 
 ***nikita.peresunko32@gmail.com***
 
@@ -27,6 +27,12 @@ No 2010.g. 1 septembri līdz 2020.g. 20 maijam
  
 
 ## Pieredze programmēšanā
+Manas prasmes daudzās valodas:
+| ***Valoda***    | ***Prasmes laiks***   |
+| ------------    | --------------------- |
+|  1.C++          |       2 gadi          |
+|  2.Python       |       1 gads          |
+|  3.GO           |       6 mēnesi        |
 
 
 ## Valodas prasmes
