@@ -25,8 +25,9 @@ No 2010.g. 1 septembri līdz 2020.g. 20 maijam
 
 ## Intereses:
 
+* Nodarbošana ar Sportu
+* Saišu veidošana
  
-
 ## Pieredze programmēšanā
 ***Manas prasmes daudzās valodas:***
 | ***Valoda***    | ***Prasmes laiks***   |
@@ -35,6 +36,11 @@ No 2010.g. 1 septembri līdz 2020.g. 20 maijam
 |  2.Python       |       1 gads          |
 |  3.GO           |       6 mēnesi        |
 |  4.Github vietne|       2 stundas       |
+
+## Sasniegumi
+ - [x] 2. vieta IT Ceļš olimpiādē 
+ - [x] 3. vieta IT Ceļš olimpiādē 
+ - [x] Piedalīšanas sportā  
 
 ## Valodas prasmes
 | ***Valoda***    | ***Prasmes līmenis*** |
