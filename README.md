@@ -1,5 +1,5 @@
 # My_CV
-Nikita Peresunko
+***Nikita Peresunko***
 
 ## Izglītība
 
@@ -18,4 +18,8 @@ No 2010.g. 1 septembri līdz 2020.g. 20 maijam
 ## Pieredze programmēšanā
 
 ## Valodas prasmes
+| ***Valoda*** | ***Prasmes līmenis*** |
+| ------------ | --------------------- |
+| Krievu val.  |        Dzimtā         |
+| Angļu val.   |     Labas zināšanas   |
 
