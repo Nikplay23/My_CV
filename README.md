@@ -19,9 +19,9 @@ No 2010.g. 1 septembri līdz 2020.g. 20 maijam
 
 ## Hobiji
  Mani Hobiji, ar kuriem es nodarbojos:
- 1. Programmēšana ***(GO valodas apgūšana)***
- 2. Sports
- 3. Saišu veidošana ***(Landing page konstruktors)***
+ - [x] Programmēšana ***(GO valodas apgūšana)***
+ - [x] Sports
+ - [x] Saišu veidošana ***(Landing page konstruktors)***
 
 ## Intereses:
  
