@@ -13,7 +13,7 @@
 
 * Ē- pasts:
 
-* nikita.peresunko32@gmail.com
+ nikita.peresunko32@gmail.com
 
 * Tālrunis: 20532646
 
