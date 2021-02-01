@@ -22,4 +22,4 @@ No 2010.g. 1 septembri līdz 2020.g. 20 maijam
 | ------------ | --------------------- |
 | Krievu val.  |        Dzimtā         |
 | Angļu val.   |     Labas zināšanas   |
-
+| Latv. val.   |     Labas zināšanas   |
